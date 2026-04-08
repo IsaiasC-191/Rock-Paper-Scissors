@@ -4,6 +4,8 @@
 
 Anyone can learn and enjoy the simple hand game of rock, paper, scissors. When you and a friend can't agree on anything, it's a fantastic way to make small decisions.
 
+This repository allows you to play against the computer.
+
 ## Preview
 
 :link: A **live demo** of this project can be found

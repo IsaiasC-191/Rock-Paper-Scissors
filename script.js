@@ -62,3 +62,5 @@ while (humanScore < 5 && computerScore < 5) {
     playRound(computerChoice, playerChoice);
     checkWinner();
 }
+
+alert("Refresh to play again or to reset the scoreboard")
