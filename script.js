@@ -49,7 +49,7 @@ function checkWinner() {
         alert("Human Wins!");
         return;
     }
-    alert(`Computer: ${computerScore} - Human: ${humanScore}`)
+    return alert(`Computer: ${computerScore} - Human: ${humanScore}`);
 }
 
 
